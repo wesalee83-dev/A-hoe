@@ -1,2 +1,3 @@
 # A-hoe
-Module for dev helpers and rituals
+
+A helper module for dev rituals and API structure.
